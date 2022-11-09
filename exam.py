@@ -1,16 +1,17 @@
-1- c
-2-d
-3-b
-4-c
-5-d
-7-c
-9-c
-10-b
-11-c
-12-c
-13-c
-14-a
-15-c
-16-c
-17-c
+1- open opportunities
+2-32
+3-packaged bookmark
+4-no
+5-ledger
+7-analyzing and display data
+9-save the report bundle into 
+10-personal views
+11-sum
+12-apps
+13-quote
+14-dwsktop service
+15-time values
+16-you are @
+17-system req
 6- expnsive, failure to reddesign, lack of senior support, lack of recruit new people
+
